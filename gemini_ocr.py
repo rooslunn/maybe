@@ -5,7 +5,7 @@ import requests
 import os
 from dotenv import load_dotenv
 
-PAGE=3
+PAGE=7
 
 load_dotenv()
 GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
